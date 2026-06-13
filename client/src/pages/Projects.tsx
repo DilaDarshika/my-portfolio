@@ -13,7 +13,7 @@ export default function Projects() {
       description: "Various Python projects created while learning programming concepts including data structures, algorithms, and problem-solving.",
       technologies: ["Python"],
       github: "https://github.com/DilaDarshika/python-learning-projects.git",
-      preview: "https://python-projects-demo.vercel.app",
+      preview: "https://my-portfolio-v1-psi.vercel.app/",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ export default function Projects() {
       description: "Object-oriented programming practice with Java. Focused on understanding OOP principles and design patterns.",
       technologies: ["Java"],
       github: "https://github.com/DilaDarshika/java-practice-programs.git",
-      preview: "https://java-practice-demo.vercel.app",
+      preview: "https://my-portfolio-v1-psi.vercel.app/",
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ export default function Projects() {
       description: "A lab repository containing scripts, Dockerfiles, and configuration files for setting up pipelines and deploying containers on cloud environments.",
       technologies: ["Docker", "Git", "Linux", "CI/CD"],
       github: "https://github.com/DilaDarshika/devops-automation-lab-.git",
-      preview: "https://devops-lab-demo.vercel.app",
+      preview: "https://my-portfolio-v1-psi.vercel.app/",
     },
   ];
 
